@@ -17,7 +17,7 @@ This repository provides an example code to measure distance using an ultrasonic
 Here is the Arduino code used in this project:
 
 ```cpp
-int trig = 2;   // Trigger pin
+int trig = 2;   // Trigger  pin
 int echo = 3;   // Echo pin
 float timeduration, distance;
 
